@@ -25,6 +25,7 @@
 <div class="centerd">
             Our deployment is successfull with latest changes
         </div>
+<img src="~/logo" class="rounded-circle" height="40" width="40" asp-append-version="true" />
     </form>
 </body>
 </html>
