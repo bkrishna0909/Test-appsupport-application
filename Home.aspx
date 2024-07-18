@@ -166,7 +166,7 @@
 <body>
     <form id="form1" runat="server">
         <div class="marquee-container">
-            <img src="Images/download.png" alt="Company Logo" /> <!-- Replace with your logo path -->
+            <img src="Images/ncratleos-logo.png" alt="Company Logo" /> <!-- Replace with your logo path -->
             <div class="marquee">
                 <marquee behavior="alternate" scrollamount="9" onmouseover="this.stop();" onmouseout="this.start();">
                     <a href="https://www.ncratleos.com/" target="_blank">OpsDeploymentWizard!</a>
