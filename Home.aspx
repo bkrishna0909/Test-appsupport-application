@@ -21,7 +21,9 @@
     <form id="form1" runat="server">
         <div class="centerd">
             Welcome
-Our deployment is successfull with latest changes
+        </div>
+<div class="centerd">
+            Our deployment is successfull with latest changes
         </div>
     </form>
 </body>
