@@ -20,8 +20,11 @@
 <body>
     <form id="form1" runat="server">
         <div class="centerd">
-            Welcome
+            Welcome NCR Atleos - OpsWizard Team
+First CI/CD Pipeline Deployement successful
+Demo with Sharbel!!
         </div>
+<img src="~/logo" class="rounded-circle" height="40" width="40" asp-append-version="true" />
     </form>
 </body>
 </html>
