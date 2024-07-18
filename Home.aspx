@@ -21,9 +21,7 @@
     <form id="form1" runat="server">
         <div class="centerd">
             Welcome NCR Atleos - OpsWizard Team
-        </div>
-<div class="centerd">
-            First CI/CD Pipeline Deployement successful
+First CI/CD Pipeline Deployement successful
         </div>
 <img src="~/logo" class="rounded-circle" height="40" width="40" asp-append-version="true" />
     </form>
