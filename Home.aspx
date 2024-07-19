@@ -185,7 +185,7 @@
         </div>
 
         <div class="team-section">
-            <p>Welcome to our team page! At present, the deployment of all major applications is executed manually. To enhance efficiency and accuracy, we are implementing a Continuous Deployment process utilizing the open-source GoCD platform.
+            <p> Welcome to our team page! At present, the deployment of all major applications is executed manually. To enhance efficiency and accuracy, we are implementing a Continuous Deployment process utilizing the open-source GoCD platform.
 			</p>
 			<p>
 		This innovative approach will automate the deployment process, eliminating the need for manual intervention. The adoption of this automated process will not only conserve valuable resources and time but also maintain a comprehensive record of all code modifications deployed across various environments. This strategic shift towards automation underscores our commitment to operational excellence and continuous improvement.
