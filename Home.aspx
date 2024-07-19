@@ -170,8 +170,6 @@
             <div class="marquee">
                 <marquee behavior="alternate" scrollamount="9" onmouseover="this.stop();" onmouseout="this.start();">
                     <a href="https://www.ncratleos.com/" target="_blank">OpsWizard!</a>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="https://www.ncratleos.com/" target="_blank">OpsDeploymentWizard!!</a>
                 </marquee>
             </div>
         </div>
@@ -187,7 +185,11 @@
         </div>
 
         <div class="team-section">
-            <p>Welcome to our team page! We are a group of dedicated professionals committed to excellence and innovation. Meet our team members below and learn more about their roles and expertise.</p>
+            <p>Welcome to our team page! At present, the deployment of all major applications is executed manually. To enhance efficiency and accuracy, we are implementing a Continuous Deployment process utilizing the open-source GoCD platform.
+			</p>
+			<p>
+		This innovative approach will automate the deployment process, eliminating the need for manual intervention. The adoption of this automated process will not only conserve valuable resources and time but also maintain a comprehensive record of all code modifications deployed across various environments. This strategic shift towards automation underscores our commitment to operational excellence and continuous improvement.
+ </p>
 
             <div class="team-grid">
                 <div class="team-member">
@@ -196,27 +198,27 @@
                     <p>IT Manager</p>
                 </div>
                 <div class="team-member">
-                    <img src="Images/IMG-20240719-WA0018.jpg" alt="Team Member 2" />
+                    <img src="Images/IMG-20240719-WA0029.jpg" alt="Team Member 2" />
                     <h2>Balakrishna Veruva</h2>
                     <p>AppDev Engineer III</p>
                 </div>
                 <div class="team-member">
-                    <img src="Images/IMG-20240719-WA0002.jpg" alt="Team Member 3" />
+                    <img src="Images/IMG-20240719-WA0034.jpg" alt="Team Member 3" />
                     <h2>Manu K K</h2>
                     <p>Business System Sr Analyst</p>
                 </div>
                 <div class="team-member">
-                    <img src="Images/NoImages.gif" alt="Team Member 4" />
+                    <img src="Images/IMG-20240719-WA0025.jpg" alt="Team Member 4" />
                     <h2>Roshan Pathan</h2>
                     <p>AppDev Engineer II</p>
                 </div>
                 <div class="team-member">
-                    <img src="Images/NoImages.gif" alt="Team Member 5" />
-                    <h2>Evita Desouza</h2>
+                    <img src="Images/IMG-20240719-WA0027.jpg" alt="Team Member 5" />
+                    <h2>Evita D'souza</h2>
                     <p>SW Quality Engineer III</p>
                 </div>
                 <div class="team-member">
-                    <img src="Images/IMG-20240719-WA0023.ipg" alt="Team Member 6" />
+                    <img src="Images/IMG-20240719-WA0023.jpg" alt="Team Member 6" />
                     <h2>Jnanesh Kumar</h2>
                     <p>IT Support Engineer II</p>
                 </div>
