@@ -156,7 +156,7 @@
                     carousel.style.transform = `translateX(${offset}%)`;
                 }
 
-                setInterval(nextSlide, 3000); // Automatic sliding every 3 seconds
+                setInterval(nextSlide, 5000); // Automatic sliding every 3 seconds
             } else {
                 console.error('Carousel element not found.');
             }
@@ -169,7 +169,7 @@
             <img src="Images/ncratleos-logo.png" alt="Company Logo" /> <!-- Replace with your logo path -->
             <div class="marquee">
                 <marquee behavior="alternate" scrollamount="9" onmouseover="this.stop();" onmouseout="this.start();">
-                    <a href="https://www.ncratleos.com/" target="_blank">OpsDeploymentWizard!</a>
+                    <a href="https://www.ncratleos.com/" target="_blank">OpsWizard!</a>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     <a href="https://www.ncratleos.com/" target="_blank">OpsDeploymentWizard!!</a>
                 </marquee>
@@ -191,34 +191,34 @@
 
             <div class="team-grid">
                 <div class="team-member">
-                    <img src="Images/Venkatesh.jpg" alt="Team Member 1" />
+                    <img src="Images/IMG-20240719-WA0021.jpg" alt="Team Member 1" />
                     <h2>Varun Bhandari</h2>
-                    <p>Designation 1</p>
+                    <p>IT Manager</p>
                 </div>
                 <div class="team-member">
-                    <img src="Images/NoImages.gif" alt="Team Member 2" />
+                    <img src="Images/IMG-20240719-WA0018.jpg" alt="Team Member 2" />
                     <h2>Balakrishna Veruva</h2>
-                    <p>Designation 2</p>
+                    <p>AppDev Engineer III</p>
                 </div>
                 <div class="team-member">
-                    <img src="Images/NoImages.gif" alt="Team Member 3" />
+                    <img src="Images/IMG-20240719-WA0002.jpg" alt="Team Member 3" />
                     <h2>Manu K K</h2>
-                    <p>Designation 3</p>
+                    <p>Business System Sr Analyst</p>
                 </div>
                 <div class="team-member">
                     <img src="Images/NoImages.gif" alt="Team Member 4" />
                     <h2>Roshan Pathan</h2>
-                    <p>Designation 4</p>
+                    <p>AppDev Engineer II</p>
                 </div>
                 <div class="team-member">
                     <img src="Images/NoImages.gif" alt="Team Member 5" />
                     <h2>Evita Desouza</h2>
-                    <p>Designation 5</p>
+                    <p>SW Quality Engineer III</p>
                 </div>
                 <div class="team-member">
-                    <img src="Images/NoImages.gif" alt="Team Member 6" />
+                    <img src="Images/IMG-20240719-WA0023.ipg" alt="Team Member 6" />
                     <h2>Jnanesh Kumar</h2>
-                    <p>Designation 6</p>
+                    <p>IT Support Engineer II</p>
                 </div>
             </div>
         </div>
