@@ -156,7 +156,7 @@
                     carousel.style.transform = `translateX(${offset}%)`;
                 }
 
-                setInterval(nextSlide, 5000); // Automatic sliding every 3 seconds
+                setInterval(nextSlide, 4000); // Automatic sliding every 3 seconds
             } else {
                 console.error('Carousel element not found.');
             }
